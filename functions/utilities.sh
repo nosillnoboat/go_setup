@@ -14,7 +14,7 @@ function install_packages() {
         local package_name=$(printf -- "$line" | awk '{print $1}')
 
         printf "Installing: $package_name...\n"
-        go get $line
+        eval "go get $line"
       fi
     done < "$PACKAGES_SOURCE_PATH"
 
