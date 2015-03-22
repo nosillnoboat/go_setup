@@ -26,7 +26,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/go_setup.git
     cd go_setup
-    git checkout v0.1.1
+    git checkout v0.1.2
 
 Master Version (unstable):
 

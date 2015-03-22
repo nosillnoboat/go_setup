@@ -1,3 +1,7 @@
+# v0.1.2 (2015-03-22)
+
+- Refactored shell scripts to remove deprecated function definition.
+
 # v0.1.1 (2014-11-02)
 
 - Fixed package installs.
