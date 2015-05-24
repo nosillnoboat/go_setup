@@ -9,9 +9,9 @@
 # SETTINGS
 source settings/settings.sh
 
-# FUNCTIONS
-source functions/utilities.sh
-source functions/options.sh
+# LIBRARY
+source lib/utilities.sh
+source lib/options.sh
 
 # EXECUTION
 while true; do
