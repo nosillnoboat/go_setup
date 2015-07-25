@@ -1,4 +1,4 @@
-# Overview
+# Go Setup
 
 [![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
 
