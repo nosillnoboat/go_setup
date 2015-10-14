@@ -1,3 +1,8 @@
+# v0.2.0 (2015-10-14)
+
+- Fixed hanging script with invalid option.
+- Refactored script source from functions to lib folder.
+
 # v0.1.2 (2015-03-22)
 
 - Refactored shell scripts to remove deprecated function definition.
