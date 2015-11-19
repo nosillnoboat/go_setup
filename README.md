@@ -8,8 +8,8 @@ Sometimes, when setting up a new machine, there is a need for automating the ins
 (i.e. setting up your toolbox). This solves that problem by providing a master list of commonly used packages which
 can be installed via a single command.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- Tocer[start]: Auto-generated, don't remove. -->
+
 # Table of Contents
 
 - [Features](#features)
@@ -23,7 +23,7 @@ can be installed via a single command.
 - [History](#history)
 - [Credits](#credits)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- Tocer[finish]: Auto-generated, don't remove. -->
 
 # Features
 
