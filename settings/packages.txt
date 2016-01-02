@@ -3,3 +3,4 @@
 #-------------#
 
 github.com/ericchiang/pup
+github.com/bradfitz/http2/h2i

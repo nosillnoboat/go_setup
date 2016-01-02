@@ -30,6 +30,7 @@ can be installed via a single command.
 Installs the following packages:
 
 - [pup](https://github.com/EricChiang/pup)
+- [h2i](https://github.com/bradfitz/http2/tree/master/h2i)
 
 # Requirements
 
